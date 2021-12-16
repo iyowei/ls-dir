@@ -1,0 +1,33 @@
+{
+  "name": "@iyowei/ls-dir",
+  "version": "1.0.0",
+  "description": "并行扫描文件夹。",
+  "main": "lsDir.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyowei/ls-dir.git"
+  },
+  "keywords": [
+    "iyowei"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iyowei/ls-dir/issues"
+  },
+  "homepage": "https://github.com/iyowei/ls-dir#readme",
+  "type": "module",
+  "exports": "./lsDir.js",
+  "files": [
+    "lsDir.js"
+  ],
+  "engines": {
+    "node": ">=12.20.0"
+  },
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
