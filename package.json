@@ -1,6 +1,6 @@
 {
   "name": "@iyowei/ls-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "并行扫描文件夹。",
   "main": "lsDir.js",
   "scripts": {},
