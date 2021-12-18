@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "并行扫描文件夹。",
   "main": "lsDir.js",
-  "scripts": {
-    "preinstall": "npx only-allow pnpm"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iyowei/ls-dir.git"
